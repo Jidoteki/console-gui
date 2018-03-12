@@ -2,7 +2,7 @@
 
 This repository contains the _trial_ console GUI provided for free with the [On-Prem Trial OVA](https://try.on-premises.com)
 
-![on-prem-console-1](https://user-images.githubusercontent.com/153401/37279346-720c8a96-25e2-11e8-85c4-8c0d2bbf2463.jpg)
+![on-prem-console-1](https://user-images.githubusercontent.com/153401/37281718-e1618d54-25e9-11e8-8bd3-8c478d8368a8.png)
 
 The _trial_ console GUI is a simplified version of the _On-Prem Enterprise_ console GUI, as it doesn't include the ability to configure or change any settings other than the `admin` password.
 
@@ -62,11 +62,11 @@ Variations of the same scripts [are deployed](https://on-premises.com) to differ
 
 ### Trial OVA Console GUI
 
-![on-prem-console-1](https://user-images.githubusercontent.com/153401/37279346-720c8a96-25e2-11e8-85c4-8c0d2bbf2463.jpg) ![on-prem-console-2](https://user-images.githubusercontent.com/153401/37279347-7331fb22-25e2-11e8-83a4-d0e59423880d.jpg)
+![on-prem-console-1](https://user-images.githubusercontent.com/153401/37281718-e1618d54-25e9-11e8-8bd3-8c478d8368a8.png) ![on-prem-console-2](https://user-images.githubusercontent.com/153401/37281721-e1b8ecfc-25e9-11e8-8cca-ba7ddb16eb79.png)
 
 ### Meta Enterprise OVA Console GUI
 
-![on-prem-console-3](https://user-images.githubusercontent.com/153401/37279348-7390708a-25e2-11e8-9084-0f3e61cfdb8e.jpg) ![on-prem-console-4](https://user-images.githubusercontent.com/153401/37280108-becc3046-25e4-11e8-99d1-e2adeac74506.jpg)
+![on-prem-console-3](https://user-images.githubusercontent.com/153401/37281722-e2cadca4-25e9-11e8-8e48-323d92822463.png) ![on-prem-console-4](https://user-images.githubusercontent.com/153401/37281724-e32f5daa-25e9-11e8-9c62-9f58684e8d97.png)
 
 # Why network-setup?
 
